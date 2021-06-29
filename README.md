@@ -1,4 +1,5 @@
 # SYSTEM HEALTH STATUS
+<br>
 
 ## ABSTRACT
 
@@ -17,10 +18,12 @@ to get system information and cut, grep, awk and sed for text processing.
 
 * Apart from system status, the script will check a predefined threshold for CPU load and
 filesystem size.
+<br>
 
 ## RUN USING
 * `chmod +x system_health_status.sh`
 * `./system_health_status.sh`
+<br>
 
 ## RESULTS
 
