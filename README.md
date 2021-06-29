@@ -27,4 +27,9 @@ filesystem size.
 
 ## RESULTS
 
+<p align="center">
+  <br>
+  <kbd><img src="https://github.com/Candida18/System-Health-Status/blob/main/Output.png"></kbd>
+</p>
+
   
