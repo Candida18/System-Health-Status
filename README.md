@@ -1,4 +1,11 @@
 # SYSTEM HEALTH STATUS
+
+<br>
+
+![](https://img.shields.io/github/forks/Candida18/System-Health-Status?style=for-the-badge) &emsp; &emsp;
+![](https://img.shields.io/github/stars/Candida18/System-Health-Status?style=for-the-badge) &emsp; &emsp;
+![](https://img.shields.io/github/license/Candida18/System-Health-Status?style=for-the-badge) &emsp; &emsp;
+
 <br>
 
 ## ABSTRACT
